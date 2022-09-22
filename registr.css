@@ -1,0 +1,105 @@
+h2{
+  color:black;
+  text-align: center;
+  }
+
+.body {
+  background-image: url('pexels-karolina-grabowska-5477579.jpg');
+  background-size:auto;
+  text-align: center;
+  font-family: "Roboto","sans-serif";
+  font-size: 20px;
+  color: black ;
+  font-weight: bold;
+  
+  
+}
+
+.form{
+  position: relative;
+  z-index: 1;
+  max-width: 800px;
+  margin:0 auto 50px;
+  padding: 30px;
+ 
+}
+
+
+.register_form
+{
+width: 200px;
+padding: 10% 0 0;
+margin: auto;
+text-align: center;
+
+}
+
+form li {
+  list-style: none;
+  margin-bottom: 5px;
+  text-align: center;
+  
+}
+  
+form ul li label{
+  float: left;
+  clear: left;
+  width: 100px;
+  text-align: center;
+  border:1;
+  margin: 0 0 10px;
+  padding: 5px;
+  box-sizing: border-box;
+  font-size: 18px;
+  font-family:"Roboto","sans-serif" ;
+}
+  
+form ul li input, select, span {
+  float: left;
+  margin-bottom: 10px;
+  font-family:"Roboto","sans-serif";
+  outline: 1;
+  background: #e8e8e8;
+  border:0;
+  margin: 0 0 10px;
+  padding: 10px;
+  box-sizing: border-box;
+  font-size: 14px;
+  border-radius: 10px;
+
+  
+}
+  
+form textarea {
+  float: left;
+  width: 500px;
+  height: 100px;
+  background-color:#e8e8e8;
+  border-radius: 10px;
+}
+  
+[type="submit"] {
+  clear: left;
+  margin: 20px 0 0 230px;
+  font-size:16px;
+  align-items: center;
+  font-family: 16px;
+  text-transform: uppercase;
+  outline:0;
+  background:darkslateblue;
+
+  text-align: center;
+  border: 0;
+  padding: 15px;
+  color:#e8e8e8;
+  cursor: pointer;
+  margin: 10px;
+  border-radius: 10px;
+}
+  
+p {
+  margin-left: 70px;
+  font-weight: bold;
+ 
+  }
+  
